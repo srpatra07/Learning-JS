@@ -1,0 +1,8 @@
+{
+    "name": "laughing-engine-g9jgp9jxr7vf95q",
+    "features": {
+      "ghcr.io/devcontainers/features/node:1": {
+        "version": "lts" // or a specific version like "18" or "18.16.0"
+      }
+    }
+  }
